@@ -1,0 +1,5 @@
+table_name: "dat_collectionaccount"
+load_type: "incremental"
+primary_key: "id"
+increment_column: "updated_at"
+source_path: "/source/dat_collectionaccount"
